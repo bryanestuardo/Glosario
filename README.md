@@ -17,9 +17,8 @@
 - Glosario HTML CSS
 
     - Página de inicio
-        - Banner de introducción
+         Banner de introducción
     - Glosario
-        - Contendio HTML
-        - Contenido CSS
-
-
+        Contendio HTML
+         Contenido CSS
+         
