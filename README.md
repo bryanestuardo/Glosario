@@ -22,3 +22,9 @@
         Contendio HTML
          Contenido CSS
          
+
+## Objetivos a Futuro :tw-1f31f:
+
+1. Ser mas puntual a conetarme 
+1. Entragar mis tareas a tiempo 
+1. Participar mas en clase 
